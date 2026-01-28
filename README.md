@@ -1,7 +1,7 @@
 # 📊 Customer Behavior ETL Pipeline
 
 ## 📌 Giới thiệu
-Dự án xây dựng **pipeline ETL bằng Apache Spark (PySpark)** nhằm thu thập, xử lý và phân tích **hành vi xem nội dung của khách hàng ** từ các file log JSON theo ngày.
+Dự án xây dựng **pipeline ETL bằng Apache Spark (PySpark)** nhằm thu thập, xử lý và phân tích **hành vi xem nội dung của khách hàng** từ các file log JSON theo ngày.
 
 🎯 **Giá trị nghiệp vụ**:
 - Xác định khách hàng **thích xem nội dung gì nhất**
